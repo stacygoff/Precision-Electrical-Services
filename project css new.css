@@ -1,0 +1,23 @@
+header {
+    padding: 50px;
+    background-color: blue;
+    text-align: center;
+    border-top-color: red;
+    border-top-style: solid;
+    border-style: dotted;
+    border-block-start-width: 15px;
+}
+
+p {
+    padding: 10px;
+    background-color: blueviolet;
+    text-align: justify;
+    border-bottom-color: aqua;
+}
+
+div {
+    padding: 5%;
+    background-color: coral;
+    border-style: dotted;
+    b
+}
