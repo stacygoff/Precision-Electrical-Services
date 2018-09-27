@@ -1,0 +1,9 @@
+const myList = document. get Elements By Tag Name (p');
+
+for (let i =0; i <els.length; i +=1)
+{ els [i] // do something with each element}
+
+const myList=document.get Elements ByTagNme (li');
+
+for (let i =0; i (myList.length; it=1))
+{my list [i].style.color='purple';}
