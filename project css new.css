@@ -6,6 +6,7 @@ header {
     border-top-style: solid;
     border-style: dotted;
     border-block-start-width: 15px;
+    font: italic bold 50px/30px Georgia, serif;
 }
 
 p {
@@ -13,10 +14,12 @@ p {
     background-color: orangered;
     text-align: justify;
     border-bottom-color: silver;
+    font: italic bold 25px/30px Georgia, serif;
 }
 
 div {
     padding: 5%;
     background-color: rgba(255, 127, 80, 0.308);
     border-style: dotted;
+    font: italic bold 25px/30px Georgia, serif;
 }
