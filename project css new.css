@@ -10,7 +10,7 @@ header {
 }
 
 p {
-    padding: 50px;
+    padding: 15px;
     background-color: orangered;
     text-align: justify;
     border-bottom-color: silver;
@@ -20,6 +20,23 @@ p {
 div {
     padding: 5%;
     background-color: rgba(255, 127, 80, 0.308);
-    border-style: dotted;
+    border-inline-end-style: double;
     font: italic bold 25px/30px Georgia, serif;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
 }
+
+h3 {
+    background-color: aquamarine;
+}
+
+.cards-content {
+    min-height: auto;
+    max-height: auto;
+    min-width: auto;
+    max-width: auto;
+}
+
+.card-deck {}
